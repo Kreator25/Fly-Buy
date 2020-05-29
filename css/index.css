@@ -1,0 +1,109 @@
+#title{
+  background-color:#a8df65;
+  color:#ffff;
+}
+.top-container-text{
+  font-family: "Acme",sans-serif;
+  font-weight: 900;
+  line-height: 1.5;
+}
+.header{
+  text-decoration: underline;
+}
+.navbar{
+  padding-bottom: 5%;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.navbar-brand {
+ font-family: "Ubuntu";
+ font-size: 1.5rem;
+ font-weight: bold;
+}
+.nav-item{
+ padding:0 18px;
+}
+.top-container{
+ text-align: center;
+ padding-left: 7%;
+ padding-right: 7%;
+ padding-bottom: 3%;
+}
+.images{
+  height: 60%;
+  width: 60%;
+  border-width:  2px;
+}
+.item:hover{
+  color: #f5a31a;
+}
+#Display{
+  font-family: "Montserrat",sans-serif;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-top: 3%;
+}
+.row{
+  padding-top: 4%;
+  text-align: center;
+}
+.item-title{
+  padding-top: 1%;
+}
+.Display-heading{
+  font-family: "Montserrat",sans-serif;
+  font-weight: 900;
+  color: #222831;
+}
+p{
+  color: #FFFFFF;
+}
+
+#Offers {
+  text-align: center;
+  background-color: #f5a31a;
+  color: #FFFFFF;
+}
+
+.offers-text {
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.offers-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding-left:7%;
+  padding-right:7%;
+  padding-top:4%;
+  padding-bottom: 4%;
+}
+
+.bottom-container{
+  text-align: center;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-top:3%;
+  padding-bottom:2%;
+  background-color:#a8df65 ;
+  color: #FFFFFF;
+}
+
+#ensure{
+  font-family: "Montserrat",sans-serif;
+}
+.ensure-heading{
+  font-weight: bold;
+}
+.promise{
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.promise-icon{
+    padding-bottom: 4%;
+}
